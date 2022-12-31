@@ -12,6 +12,8 @@ Aqui você pode encontrar um pouco do meu trabalho, onde tento sempre me atualiz
   <img align="center" alt="Lucas-Spring Boot" height="30" width="40" src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png">
   <img align="center" alt="Lucas-Docker" height="30" width="40" src="http://www.cloudlabs.com.br/wp-content/uploads/2017/07/whale-docker-logo.png">
   <img align="center" alt="Lucas-Kubernetes" height="40" width="40" src="https://butecotecnologico.com.br/kubernetes-explicado/k8s-logo.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.mexidodeideias.com.br/wp-content/uploads/2013/04/Melhores-gifs-cafeinados-3.gif">
+</div>
 </div>
 
 ##
