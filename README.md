@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Lucas Martins 🚀🚀
-Aqui você pode encontrar um pouco do meu trabalho, onde tento sempre me atualizar sobre as notícias do mercado. Hoje estou focando meus estudos para ser um Desenvolvedor Backend, estudando a linguagem Java e o FrameWork SpringBoot.
+Aqui você encontra um pouco do meu trabalho, onde tento sempre atualizar sobre as ferramentas que estou trabalhando no momento. Atualmente estou empenhado em aprimorar minhas habilidades com Desenvolvimento em Backend principalmente com Java 11 e Spring Framework (Boot, Data JPA, Security, etc.).
 
 ##
 
