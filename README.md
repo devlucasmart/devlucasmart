@@ -1,4 +1,5 @@
-## Olá! Eu sou o Lucas Martins
+## Olá! Eu sou o Lucas Martins 🚀🚀
+Aqui você pode encontrar um pouco do meu trabalho, onde tento sempre me atualizar sobre as notícias do mercado. Hoje estou focando meus estudos para ser um Desenvolvedor Backend, estudando a linguagem Java e o FrameWork SpringBoot.
 
 ##
 
@@ -16,10 +17,10 @@
 ##
 
 <div>
-  <a href = "https://gitlab.com/lucas.martins.fsa"><img src="https://img.shields.io/badge/-Gitlab-%23333?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucas.martins.fsa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://gitlab.com/lucas.martins.fsa"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucas.martins.fsa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lucas-martins-arruda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5561992982212" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5561992982212" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
