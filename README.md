@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=7DD3FC&center=true&vCenter=true&width=860&lines=Ol%C3%A1%2C+eu+sou+Lucas+Martins+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React+%7C+Angular+%7C+TypeScript;Kotlin+%7C+Compose+Desktop+%7C+Android+%7C+MySQL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7DD3FC&center=true&vCenter=true&width=920&lines=Ol%C3%A1%2C+eu+sou+Lucas+Martins+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React+%7C+Angular+%7C+TypeScript;Kotlin+%7C+Compose+Desktop+%7C+Android+%7C+MySQL" alt="Typing SVG" />
 
 <p>
   <strong>Fullstack Developer</strong> construindo produtos escaláveis com foco em performance e experiência.
