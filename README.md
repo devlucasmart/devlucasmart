@@ -18,16 +18,10 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img alt="Java" height="40" width="48" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="Java"/>
-  <img alt="Spring Boot" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring Boot"/>
-  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"/>
-  <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React"/>
-  <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"/>
-  <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"/>
-  <img alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker"/>
-  <img alt="Kubernetes" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"/>
-  <img alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
-  <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git"/>
+  <img
+    src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,docker,kubernetes,postgres,git&theme=dark"
+    alt="Tecnologias: Java, Spring, JavaScript, React, HTML, CSS, Docker, Kubernetes, PostgreSQL e Git"
+  />
 </div>
 
 ---
