@@ -22,17 +22,11 @@
   <img src="https://skillicons.dev/icons?i=java,kotlin,spring,ts,js,react,angular,androidstudio,html,css,docker,kubernetes,postgres,mysql,mongodb,redis,git&theme=dark" alt="Tecnologias" />
 </div>
 
-## Estatisticas do Repositorio
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devlucasmart&repo=devlucasmart&theme=github_dark_dimmed&hide_border=true" alt="Repositorio devlucasmart"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/github/stars/devlucasmart/devlucasmart?style=for-the-badge&logo=github&label=Stars&color=0F172A&labelColor=020617" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/devlucasmart/devlucasmart?style=for-the-badge&logo=github&label=Forks&color=0F172A&labelColor=020617" alt="Forks"/>
-  <img src="https://img.shields.io/github/issues/devlucasmart/devlucasmart?style=for-the-badge&logo=github&label=Issues&color=0F172A&labelColor=020617" alt="Issues"/>
-  <img src="https://img.shields.io/github/last-commit/devlucasmart/devlucasmart?style=for-the-badge&logo=github&label=Ultimo%20commit&color=0F172A&labelColor=020617" alt="Ultimo commit"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devlucasmart&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasmart&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top langs"/>
 </div>
 
 ## Contato
